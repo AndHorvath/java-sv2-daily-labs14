@@ -1,1 +1,1 @@
-# java-sv2-daily-labs14
+A Struktúraváltás 2.0 tananyaghoz tartozó konzultációkon kiadott 14. heti feladataim.
