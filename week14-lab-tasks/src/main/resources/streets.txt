@@ -1,0 +1,11 @@
+Kossuth 0
+Kossuth 0
+Petőfi 1
+Petőfi 0
+Kossuth 1
+Kossuth 1
+Kossuth 1
+Petőfi 0
+Petőfi 1
+Kossuth 1
+Petőfi 0
